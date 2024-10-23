@@ -39,9 +39,13 @@ Resultado de los cambios, se genera como error aunque fue exitoso por los cambio
 
 ### Git Actions
 
-![image](https://github.com/user-attachments/assets/1b7a8ee4-dfa4-4610-9ec2-b5d2822fac6d)
+![image](https://github.com/user-attachments/assets/9414007e-d35e-4b36-b81c-b5ec1ebe6f19)
 
-GitHub Actions nunca logro realizar un workflow, no importa cuanto intentara, este pantallazo es despues de dejarlo correr por todo el proceso de AWS, donde, sin importar la cantidad de ejecuciones, nunca funcionó
+
+GitHub Actions con pruebas exitosas y fallidas
+
+![image](https://github.com/user-attachments/assets/df75e9cd-26cf-4892-83e4-571235f218e3)
+Fallos especificos de la integracion fallida
 
 ### AWS
 
